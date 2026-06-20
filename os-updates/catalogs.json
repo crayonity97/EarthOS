@@ -199,7 +199,6 @@
     "size": "1027.0KB",
     "version": "1.9.7"
   },
-  [
   {
     "name": "Extended Security Hardening",
     "product": "TestOS 12.12",
@@ -280,5 +279,4 @@
     "size": "1020.8KB",
     "version": "1.10.7"
   }
-]
 ]
