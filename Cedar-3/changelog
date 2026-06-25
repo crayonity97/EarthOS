@@ -1,6 +1,6 @@
 <h4>What's new in EarthOS Cedar 3.2.19 [June 2026 Patchfix]?<h4>
 <h6>Bugfixes</h6>
 <p>Fatal error in filesystem that causes files to mix up from beta builds</p>
-<h6>Features<h6>
+<h6>Features</h6>
 <p>Added new update website to Cedar</p>
 <p>Backported a filesystem feature from an EarthOS 4 beta</p>
